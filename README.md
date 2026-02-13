@@ -2,7 +2,7 @@
 
 ### **B.S. Student in Computer Software Engineering @ Hanyang University**
 
-- **Target:** Application Engineer
+- **Target:** Android Engineer dedicated to Building Seamless UX and High-Performance Apps
 - **Focus:** Building seamless UX with Kotlin & Jetpack Compose
 - **Passion:** Entrepreneurship and solving real-world problems through code
 
