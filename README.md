@@ -20,7 +20,7 @@
 
 # 🚀 Projects
 
-* 🍴 **Polle (뽈레)** – Implementing UI components and features for a **trusted gourmet community service** using **Kotlin & Jetpack Compose**. Focus on enhancing user engagement through high-fidelity interfaces.
+* 🍽️ **Polle (뽈레)** – Implementing UI components and features for a **trusted gourmet community service** using **Kotlin & Jetpack Compose**. Focus on enhancing user engagement through high-fidelity interfaces.
 * 🥐 [**Thurry (떠리)**](https://apps.apple.com/kr/app/%EB%96%A0%EB%A6%AC-%EB%B2%A0%EC%9D%B4%EC%BB%A4%EB%A6%AC-%EB%A7%88%EA%B0%90%ED%95%A0%EC%9D%B8/id6742439407) – Brokerage platform for leftover bakery items (Flutter / Node.js).
 
 * 📖 [**TodayVerse**](https://apps.apple.com/kr/app/%EC%98%A4%EB%8A%98%EC%9D%98-%EC%84%B1%EA%B2%BD-%EB%A7%90%EC%94%80/id6753909849#information) – Daily Bible verse recommendation app.
