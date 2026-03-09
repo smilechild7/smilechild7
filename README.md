@@ -12,7 +12,7 @@
 
 | Category | Description |
 | :--- | :--- |
-| 💼 **Internship** | **Android Software Engineer Intern** @ (주)어떤사람들 <br> *2026.01 ~ (Continuing as Part-time)* |
+| 💼 **Internship** | **Android Software Engineer Intern** @ (주)어떤사람들 <br> *2026.01 ~ 02 (Continuing as Part-time)* |
 | 🚀 **Startup** | **Founder & Full-stack Developer** @ Thurry 떠리 <br> *Discount bakery brokerage platform* |
 | 🌱 **Learning** | **Android Developer Training courses** |
 
